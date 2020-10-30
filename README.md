@@ -5,8 +5,8 @@
   Firebase Tutorials
 </h1>
 
-This repo contains a series of Firebase tutorials from:
- * <a href='https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg'>The Net Ninja</a>
+This repo contains a series of Firebase tutorials from <a href='https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg'>The Net Ninja</a>
 
 
-1. Firestore - cafe
+1. Firestore
+2. Authentication
